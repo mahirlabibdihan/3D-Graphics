@@ -1,0 +1,1 @@
+<img src="Sphere.gif" width=900>
